@@ -1,0 +1,11 @@
+{
+  "name": "genpark-canary-deployment-traffic-splitter-and-drift-monitor-skill",
+  "version": "1.0.0",
+  "description": "Splits agent traffic across baseline and canary models, monitoring error rate drift and triggering automatic rollbacks",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "homepage": "https://www.genpark.ai",
+  "linkedin": "https://www.linkedin.com/company/92955550",
+  "linkedin_page": "https://www.llinkedin.com/company/92955550",
+  "license": "MIT"
+}
